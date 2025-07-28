@@ -59,19 +59,19 @@ export const features2 = [
     icon: "icon-precision",
     title: "Bandra West - Turner Road (Jewellery Studio)",
     description:
-      "At Vineta, we use only premium materials, ensuring our collections offer superior comfort and lasting durability. Every piece is crafted with care and attention to detail.",
+      "STUDIO HOURS 11 AM-7 PM Monday to Saturday (by appointment only)", "<a href="#">+91 84509 97666</a>"
   },
   {
     icon: "icon-elegance",
     title: "Andheri East - Off Mahakali Caves Bogd (Factory Outlet)",
     description:
-      "Our designs embrace simplicity at its finest. Vineta’s understated yet refined style captures the essence of modern fashion, making a statement.",
+      "STORE HOURS 9 AM-4 PM Monday to Saturday (by appointment only)",
   },
   {
     icon: "icon-fashion-body",
     title: "BKC - BDB (Wholesale Unit)",
     description:
-      "We celebrate individuality with a diverse range of sizes, offering clothing that fits and flatters every body type. At Vineta, fashion is for everyone.",
+      "TIMINGS 11 AM - 7 PM Monday to Saturday (by appointment only)",
   },
 ];
 
