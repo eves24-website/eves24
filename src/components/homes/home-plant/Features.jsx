@@ -68,8 +68,8 @@ export default function Features() {
                   </svg>
                 </div>
                 <div className="content">
-                  <div className="title fw-bold font-7">Eco-Friendly</div>
-                  <p className="text-main-3 text-md">Expect more by default</p>
+                  <div className="title fw-bold font-7"> IGI CERTIFIED SEALED </div>
+                  <p className="text-main-3 text-md">International Gemological Institute (IGI) is the most reputed laboratory worldwide for Diamond Jewelry Certification.</p>
                 </div>
               </div>
             </SwiperSlide>
@@ -90,8 +90,8 @@ export default function Features() {
                   </svg>
                 </div>
                 <div className="content">
-                  <div className="title fw-bold font-7">Great support</div>
-                  <p className="text-main-3 text-md">We’re here to help</p>
+                  <div className="title fw-bold font-7"> EXCHANGE & BUYBACK </div>
+                  <p className="text-main-3 text-md"> Upgrade to new Jewelry with Exchange or Sell it back to us with Buyback Services.</p>
                 </div>
               </div>
             </SwiperSlide>
@@ -116,8 +116,8 @@ export default function Features() {
                   </svg>
                 </div>
                 <div className="content">
-                  <div className="title fw-bold font-7">Expert Care</div>
-                  <p className="text-main-3 text-md">Ready to impress</p>
+                  <div className="title fw-bold font-7">BUY @ 0% INTEREST EMIS</div>
+                  <p className="text-main-3 text-md"> Flexible payment plans. Lock in the Gold & Diamond prices on the order date and pay us over the next few months. </p>
                 </div>
               </div>
             </SwiperSlide>
