@@ -8,7 +8,7 @@ import { Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 export default function Products1() {
-  const tabs = ["New Arrivals", "Best Sellers", "Deals", "Deals", "Deals"];
+  const tabs = ["Bridal Jewelry", "Engagement Rings", "Corporate Wear",];
   const [activeTab, setActiveTab] = useState(tabs[0]);
 
   const {
