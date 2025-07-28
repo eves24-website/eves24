@@ -1718,7 +1718,7 @@ export const products11 = [
     discount: "20% Off",
     stockStatus: "In stock, ready to ship",
     isSoldOut: false,
-    tabFilterCategories: ["What’s Hot?", "Best Sellers", "Just Arrivals"],
+    tabFilterCategories: ["What’s Hot?", "Best Sellers", "Just Arrivals", "Engagement Rings"],
   },
   {
     id: 59,
@@ -1742,7 +1742,7 @@ export const products11 = [
     discount: "20% Off",
     stockStatus: "In stock, ready to ship",
     isSoldOut: false,
-    tabFilterCategories: ["What’s Hot?", "Best Sellers"],
+    tabFilterCategories: ["What’s Hot?", "Best Sellers", "Engagement Rings"],
   },
   {
     id: 61,
@@ -1754,7 +1754,7 @@ export const products11 = [
     discount: null,
     stockStatus: "Out of stock",
     isSoldOut: true,
-    tabFilterCategories: ["What’s Hot?", "Best Sellers", "Just Arrivals"],
+    tabFilterCategories: ["What’s Hot?", "Best Sellers", "Just Arrivals", "Engagement Rings"],
   },
   {
     id: 62,
@@ -1766,7 +1766,7 @@ export const products11 = [
     discount: "20% Off",
     stockStatus: "In stock, ready to ship",
     isSoldOut: false,
-    tabFilterCategories: ["What’s Hot?", "Best Sellers", "Just Arrivals"],
+    tabFilterCategories: ["What’s Hot?", "Best Sellers", "Just Arrivals", "Engagement Rings"],
   },
 ];
 
@@ -2995,7 +2995,7 @@ export const products21 = [
     price: 80,
     oldPrice: 100,
     imgSrc: "/images/products/electronic/mouse-gaming.jpg",
-    tabFilterCategories: ["New Arrivals", "Trending"],
+    tabFilterCategories: ["New Arrivals", "Trending", "Bridal Jewelry"],
   },
   {
     id: 143,
@@ -3003,14 +3003,14 @@ export const products21 = [
     price: 85,
     oldPrice: 110,
     imgSrc: "/images/products/electronic/screen-protector.jpg",
-    tabFilterCategories: ["New Arrivals", "Featured"],
+    tabFilterCategories: ["New Arrivals", "Featured", "Bridal Jewelry"],
   },
   {
     id: 144,
     title: "Digital Camera for Kids",
     price: 130,
     imgSrc: "/images/products/electronic/camera-kid.jpg",
-    tabFilterCategories: ["New Arrivals", "Trending"],
+    tabFilterCategories: ["New Arrivals", "Trending", "Bridal Jewelry"],
   },
   {
     id: 145,
@@ -3018,14 +3018,14 @@ export const products21 = [
     price: 69,
     oldPrice: 85,
     imgSrc: "/images/products/electronic/screen-protector2.jpg",
-    tabFilterCategories: ["New Arrivals", "Featured"],
+    tabFilterCategories: ["New Arrivals", "Featured", "Bridal Jewelry"],
   },
   {
     id: 146,
     title: "Wireless Earbuds for PlayStation 5",
     price: 150,
     imgSrc: "/images/products/electronic/earbuds.jpg",
-    tabFilterCategories: ["New Arrivals", "Trending"],
+    tabFilterCategories: ["New Arrivals", "Trending", "Bridal Jewelry"],
   },
 ];
 
@@ -5045,7 +5045,7 @@ export const handcraftProducts = [
     imgSrc: "/images/products/handcraft/product-1.jpg",
     price: 120,
     oldPrice: 150,
-    tabFilteringOptions: ["New Arrivals", "Deals"],
+    tabFilteringOptions: ["New Arrivals", "Deals", "Corporate Wear"],
   },
   {
     id: 288,
@@ -5061,7 +5061,7 @@ export const handcraftProducts = [
     imgSrc: "/images/products/handcraft/product-3.jpg",
     price: 122,
     oldPrice: 152,
-    tabFilteringOptions: ["New Arrivals", "Deals"],
+    tabFilteringOptions: ["New Arrivals", "Deals", "Corporate Wear"],
   },
   {
     id: 290,
@@ -5077,7 +5077,7 @@ export const handcraftProducts = [
     imgSrc: "/images/products/handcraft/product-2.jpg",
     price: 125,
     oldPrice: 155,
-    tabFilteringOptions: ["New Arrivals", "Best Sellers", "Deals"],
+    tabFilteringOptions: ["New Arrivals", "Best Sellers", "Deals", "Corporate Wear"],
   },
   {
     id: 292,
@@ -5085,7 +5085,7 @@ export const handcraftProducts = [
     imgSrc: "/images/products/handcraft/product-3.jpg",
     price: 122,
     oldPrice: 152,
-    tabFilteringOptions: ["New Arrivals", "Best Sellers", "Deals"],
+    tabFilteringOptions: ["New Arrivals", "Best Sellers", "Deals", "Corporate Wear"],
   },
 ];
 
