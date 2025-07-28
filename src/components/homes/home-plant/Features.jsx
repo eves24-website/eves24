@@ -46,8 +46,8 @@ export default function Features() {
                   </svg>
                 </div>
                 <div className="content">
-                  <div className="title fw-bold font-7">Quality trees</div>
-                  <p className="text-main-3 text-md">Always the best</p>
+                  <div className="title fw-bold font-7">HALLMARK GOLD</div>
+                  <p className="text-main-3 text-md">The Gold is Hallmark stamped and Unique Identification is generated as per the guidelines of R</p>
                 </div>
               </div>
             </SwiperSlide>
