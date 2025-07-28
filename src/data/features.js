@@ -57,19 +57,19 @@ export const features = [
 export const features2 = [
   {
     icon: "icon-precision",
-    title: "Precision in Every Stitch",
+    title: "Bandra West - Turner Road (Jewellery Studio)",
     description:
       "At Vineta, we use only premium materials, ensuring our collections offer superior comfort and lasting durability. Every piece is crafted with care and attention to detail.",
   },
   {
     icon: "icon-elegance",
-    title: "Effortless Elegance",
+    title: "Andheri East - Off Mahakali Caves Bogd (Factory Outlet)",
     description:
       "Our designs embrace simplicity at its finest. Vineta’s understated yet refined style captures the essence of modern fashion, making a statement.",
   },
   {
     icon: "icon-fashion-body",
-    title: "Fashion for Every Body",
+    title: "BKC - BDB (Wholesale Unit)",
     description:
       "We celebrate individuality with a diverse range of sizes, offering clothing that fits and flatters every body type. At Vineta, fashion is for everyone.",
   },
