@@ -50,7 +50,7 @@ export default function Hero() {
                             to={`/shop-default`}
                             className="tf-btn btn-dark2 animate-btn"
                           >
-                            Shop Collection
+                            Book An Appointment
                             <i className="icon icon-arr-right" />
                           </Link>
                         </div>
