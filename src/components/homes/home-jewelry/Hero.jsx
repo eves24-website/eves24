@@ -47,7 +47,7 @@ export default function Hero() {
                             to={`/shop-default`}
                             className="tf-btn btn-large fw-normal btn-yellow font-2 rounded-0 animate-btn"
                           >
-                            Shop Collection
+                             Book An Appointment
                             <i className="icon icon-arr-right" />
                           </Link>
                         </div>
