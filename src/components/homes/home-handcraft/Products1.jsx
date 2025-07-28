@@ -24,29 +24,6 @@ export default function Products1() {
   return (
     <section className="flat-spacing-2 bg-yellow-6">
       <div className="container">
-        
-        <section className="flat-spacing-2 bg-yellow-6">
-            <div className="container">
-          
-              {/* 🔽 Add your heading here */}
-              <h2 className="section-title text-center mb-5">Latest Designs & Trends</h2>
-          
-              <div className="flat-animate-tab flat-controltab-nav">
-                <div className="flat-title">
-                  <ul className="menu-tab-line style-lg3 type-active-1">
-                    {tabs.map((tab, index) => (
-                      <li key={index} className="nav-tab-item">
-                        <a
-                          className={`fw-normal font-9 tab-link ${activeTab === tab ? "active" : ""}`}
-                          onClick={() => setActiveTab(tab)}
-                        >
-                          {tab}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-
         <div className="flat-animate-tab flat-controltab-nav">
           <div className="flat-title">
             <ul className="menu-tab-line style-lg3 type-active-1">
