@@ -10,16 +10,14 @@ export default function Features2() {
       <div className="container">
         <div className="flat-title-2 d-xl-flex justify-content-xl-between">
           <div className="box-title">
-            <p className="display-md-2 fw-medium">Style Curated Just for You</p>
-            <p className="text-xl">Style Curated Just for You</p>
+            <p className="display-md-2 fw-medium">Visit Us</p>
+           <p className="text-xl">Touch, Feel, Try & Experience Our Beautiful Range of Jewellery</p>
           </div>
           <div className="box-text">
             <p className="text-md">
-              Our skilled stylists have thoughtfully assembled seasonal outfits
-              that are both <br className="d-none d-xl-block" />
-              trendy and timeless. With a variety of looks, they’re here to
-              inspire your next <br className="d-none d-xl-block" />
-              fashion-forward ensemble.
+              Discover exquisite designer diamond jewellery ideal for weddings, <br className="d-none d-xl-block" />
+             festive and special occasions and regular socialisation You can alec <br className="d-none d-xl-block" />
+              interact with our craftsmen for Custom Designed Jewellery.
             </p>
           </div>
         </div>
