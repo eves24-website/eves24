@@ -13893,4 +13893,10 @@ fieldset:disabled .btn {
     }
 }
 
+/* custom CSS */
+    .menu-tab-line.style-lg3 .tab-link {
+        font-size: 18px;
+        line-height: 60px;
+        padding: 0;
+    }
 /*# sourceMappingURL=bootstrap.min.css.map */
