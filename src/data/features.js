@@ -59,7 +59,7 @@ export const features2 = [
     icon: "icon-precision",
     title: "Bandra West - Turner Road (Jewellery Studio)",
     description:
-      "STUDIO HOURS 11 AM-7 PM Monday to Saturday (by appointment only)", "<p><a href="#">+091 84509 97666</a><p>",
+      "STUDIO HOURS 11 AM-7 PM Monday to Saturday (by appointment only)",
   },
   {
     icon: "icon-elegance",
