@@ -13895,7 +13895,7 @@ fieldset:disabled .btn {
 
 /* custom CSS */
     .menu-tab-line.style-lg3 .tab-link {
-        font-size: 18px;
+        font-size: 18px !important;
         line-height: 60px;
         padding: 0;
     }
