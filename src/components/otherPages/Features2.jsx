@@ -38,21 +38,30 @@ export default function Features2() {
           }}
           modules={[Pagination]}
         >
-           {features2.map((item, index) => (
+          {features2.map((item, index) => (
             <SwiperSlide className="swiper-slide" key={index}>
-              <div className="tf-icon-box style-border text-center">
-                <div className="box-icon-1 mb-3-1">
-                  <img
-                    src={item.imgSrc}
-                    alt={item.title}
-                    className="img-fluid rounded"
-                    style={{ width: "100%", height: "200px", objectFit: "cover" }}
-                  />
-                </div>
-                <div className="content">
-                  <h6>{item.title}</h6>
-                  <p className="text-sm text-line-clamp-4">{item.description}</p>
-                </div>
+              <div className="tf-icon-box style-border text-center shadow rounded p-3">
+                <img
+                  src={item.imgSrc}
+                  alt={item.title}
+                  className="img-fluid rounded mb-3"
+                  style={{ width: "100%", height: "200px", objectFit: "cover" }}
+                />
+                <h6 className="fw-bold">{item.title}</h6>
+                <p className="text-sm mb-1" style={{ whiteSpace: "pre-line" }}>
+                  {item.description}
+                </p>
+                {item.whatsapp && (
+                  <a
+                    href={`https://wa.me/${item.whatsapp}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="d-inline-flex align-items-center gap-2 text-success mt-2 text-sm text-decoration-none"
+                  >
+                    <FaWhatsapp size={20} />
+                    +{item.whatsapp}
+                  </a>
+                )}
               </div>
             </SwiperSlide>
           ))}
