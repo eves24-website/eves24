@@ -56,7 +56,7 @@ export const features = [
 
 export const features2 = [
   {
-    imgSrc: "/images/products/handcraft/product-1.jpg", // Place this image in public/images/locations
+    imgSrc: "/images/products/handcraft/bandra-west-img.webp", // Place this image in public/images/locations
     title: "Bandra West - Turner Road (Jewellery Studio)",
     description:
       "STUDIO HOURS 11 AM-7 PM Monday to Saturday (by appointment only)",
