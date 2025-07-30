@@ -46,7 +46,7 @@ export default function Features2() {
                     src={item.imgSrc}
                     alt={item.title}
                     className="img-fluid rounded"
-                    style={{ width: "100px", height: "100px", objectFit: "cover" }}
+                    style={{ width: "100%", height: "200px", objectFit: "cover" }}
                   />
                 </div>
                 <div className="content">
