@@ -38,17 +38,20 @@ export default function Features2() {
           }}
           modules={[Pagination]}
         >
-          {features2.map((item, index) => (
+           {features2.map((item, index) => (
             <SwiperSlide className="swiper-slide" key={index}>
-              <div className="tf-icon-box style-border">
-                <div className="box-icon">
-                  <i className={`icon ${item.icon}`} />
+              <div className="tf-icon-box style-border text-center">
+                <div className="box-icon mb-3">
+                  <img
+                    src={item.imgSrc}
+                    alt={item.title}
+                    className="img-fluid rounded"
+                    style={{ width: "100px", height: "100px", objectFit: "cover" }}
+                  />
                 </div>
                 <div className="content">
                   <h6>{item.title}</h6>
-                  <p className="text-sm text-line-clamp-4">
-                    {item.description}
-                  </p>
+                  <p className="text-sm text-line-clamp-4">{item.description}</p>
                 </div>
               </div>
             </SwiperSlide>
