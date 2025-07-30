@@ -62,13 +62,13 @@ export const features2 = [
       "STUDIO HOURS 11 AM-7 PM Monday to Saturday (by appointment only)",
   },
   {
-    imgSrc: "/images/products/handcraft/product-1.jpg", // Place this image in public/images/locations
+    imgSrc: "/images/products/handcraft/bandra-west-img.webp", // Place this image in public/images/locations
     title: "Andheri East - Off Mahakali Caves Bogd (Factory Outlet)",
     description:
       "STORE HOURS 9 AM-4 PM Monday to Saturday (by appointment only)",
   },
   {
-    imgSrc: "/images/products/handcraft/product-1.jpg", // Place this image in public/images/locations
+    imgSrc: "/images/products/handcraft/bandra-west-img.webp", // Place this image in public/images/locations
     title: "BKC - BDB (Wholesale Unit)",
     description:
       "TIMINGS 11 AM - 7 PM Monday to Saturday (by appointment only)",
