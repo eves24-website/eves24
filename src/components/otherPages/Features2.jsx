@@ -41,7 +41,7 @@ export default function Features2() {
            {features2.map((item, index) => (
             <SwiperSlide className="swiper-slide" key={index}>
               <div className="tf-icon-box style-border text-center">
-                <div className="box-icon mb-3">
+                <div className="box-icon-1 mb-3-1">
                   <img
                     src={item.imgSrc}
                     alt={item.title}
